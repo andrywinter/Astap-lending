@@ -1,0 +1,25 @@
+body{
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+
+
+
+header{
+    .container{
+        max-width: 1950px;
+
+    }
+
+    .header-wrapper{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .menu{
+        display: flex;
+        gap: 50px;
+    }
+}
